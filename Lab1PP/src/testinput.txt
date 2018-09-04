@@ -1,0 +1,8 @@
+PROGRAM
+BEGIN
+ int a = 356;
+ char b ='c';
+ list c = [a,a,a];
+ real d =123.123;
+ real g = 123.E+2;
+END
